@@ -1,0 +1,21 @@
+schemes:
+  cubic:
+    name: TCP Cubic
+    color: black
+    marker: '*'
+  vegas:
+    name: TCP Vegas
+    color: silver
+    marker: 'h'
+  bbr:
+    name: TCP BBR
+    color: gold
+    marker: '^'
+  reno:
+    name: TCP Reno
+    color: skyblue
+    marker: 'H'    
+  aimd:
+    name: Simple AIMD
+    color: green
+    marker: '<'
